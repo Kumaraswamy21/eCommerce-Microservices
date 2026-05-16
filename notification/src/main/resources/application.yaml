@@ -14,7 +14,7 @@ spring:
           content-type: application/json
       kafka:
         binder:
-          brokers: localhost:9092
+          brokers: localhost:29092
 #  rabbitmq:
 #    host: ${RABBITMQ_HOST:localhost}
 #    port: ${RABBITMQ_PORT:5672}
